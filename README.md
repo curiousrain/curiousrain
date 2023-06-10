@@ -1,5 +1,3 @@
-
-<!--
 # 💫 About Me:
 Hi! My name is Nazgul<br>I'm a Frontend Developer
 
@@ -18,4 +16,3 @@ Hi! My name is Nazgul<br>I'm a Frontend Developer
 [![](https://visitcount.itsvg.in/api?id=curiousrain&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
